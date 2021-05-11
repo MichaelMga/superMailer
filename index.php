@@ -1,7 +1,9 @@
 <?php
-
- include 'autoload.php';
+ 
+ include 'vendor/bin/';
  include 'services.php';
+
+ include __DIR__ . "/vendor/autoload.php";
 
 
  //request class
