@@ -1,0 +1,12 @@
+{
+    "name": "manga/network-maker",
+    "authors": [
+        {
+            "name": "michael",
+            "email": "middleweightsoul@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
