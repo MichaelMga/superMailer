@@ -4,7 +4,7 @@
 
       function($className){
         
-        $path = str_replace($className ,"\\", "/");
+        $path = str_replace($className ,"\\", "/Model/");
         
         require_once($path);
 
